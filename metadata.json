@@ -1,0 +1,8 @@
+{
+  "name": "E-Testing Admin System",
+  "description": "Admin dashboard for E-Testing System",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
